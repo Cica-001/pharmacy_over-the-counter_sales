@@ -1,0 +1,46 @@
+,,,,,,,TOP PRODUCT,
+MONTHLY TREND,,,,TOTAL SALES,,,Row Labels,Sum of TOTALSALE
+Row Labels,Sum of TOTALSALE,,,TOTAL SALES,,,Antacid 20tab,686
+2024,1335,,,3016,,,Grand Total,686
+Jan,20,,,,,,,
+Feb,77,,,,,,,
+Mar,147,,,TOTAL QUANTITY SOLD,,,PROFIT BY CATEGORY,
+Apr,85,,,TOTAL QUANTITY SOLD,,,Row Labels,Sum of ESTIMATEDPROFIT
+May,337,,,678,,,Allergy,40
+Jun,111,,,,,,Analgesic,162
+Jul,157,,,,,,Antibiotic,53
+Aug,56,,,AVERAGE  SALE VALUE,,,Cough & Cold,120
+Sep,54,,,Average of TOTAL SALE,,,Dermatology,35
+Oct,123,,,17,,,Digestive,146
+Nov,100,,,,,,Supplement,41
+Dec,68,,,,,,Grand Total,597
+2025,1681,,,TOP PRODUCTS,,,,
+Jan,542,,,Row Labels,Sum of TOTALSALE,,,
+Feb,24,,,Antacid 20tab,686,,,
+Mar,73,,,Paracetamol 500mg,637,,MIN OF STOCK AFTERSALE,
+Apr,116,,,Cough Syrup 120ml,606,,Row Labels,Min of STOCKAFTERSALE
+May,77,,,Amoxicillin 250mg,274,,Amoxicillin 250mg,5
+Jun,82,,,Ibuprofen 200mg,247,,Antacid 20tab,-51
+Jul,80,,,Grand Total,2450,,Antihistamine 10mg,3
+Aug,445,,,,,,Cough Syrup 120ml,-52
+Sep,41,,,,,,Ibuprofen 200mg,3
+Oct,48,,,,,,Paracetamol 500mg,-132
+Nov,153,,,PAYMENT METHODS,,,Topical Ointment 15g,8
+Grand Total,3016,,,Row Labels,Sum of TOTALSALE,,Vitamin C 1000mg,6
+,,,,Card,1737,,Grand Total,-132
+,,,,Cash,754,,,
+,,,,Insurance,127,,,
+,,,,Mobilemoney,398,,,
+,,,,Grand Total,3016,,,
+,,,,,,,,
+,,,,,,,,
+,,,,CATEGORY BY PERFORMANCE,,,,
+,,,,Row Labels,Sum of TOTALSALE,,,
+,,,,Allergy,181,,,
+,,,,Analgesic,884,,,
+,,,,Antibiotic,274,,,
+,,,,Cough & Cold,606,,,
+,,,,Dermatology,165,,,
+,,,,Digestive,686,,,
+,,,,Supplement,220,,,
+,,,,Grand Total,3016,,,
